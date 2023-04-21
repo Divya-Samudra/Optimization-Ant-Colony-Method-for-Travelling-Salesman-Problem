@@ -1,3 +1,15 @@
 # Optimization-Ant-Colony-Method-for-Travelling-Salesman-Problem
-
-![image](https://user-images.githubusercontent.com/130666521/233557246-1b12df5d-fbe6-4571-8702-966715af7048.png)
+![image](https://user-images.githubusercontent.com/130666521/233557484-adec81db-71b4-47b6-a82b-767245514055.png)
+![image](https://user-images.githubusercontent.com/130666521/233557517-58b75378-f94c-4b26-8921-c5075499ed37.png)
+![image](https://user-images.githubusercontent.com/130666521/233557552-62415859-67ff-4a84-a90c-42a5f7209d89.png)
+![image](https://user-images.githubusercontent.com/130666521/233557582-a6322dd7-6f16-4bd2-b756-9dca8cb28b0b.png)
+![image](https://user-images.githubusercontent.com/130666521/233557669-1e0ca5d9-d643-42f8-9d88-1f4f62dd4330.png)
+![image](https://user-images.githubusercontent.com/130666521/233557703-6b2db6e1-cbe6-457e-8d73-303567b0123b.png)
+![image](https://user-images.githubusercontent.com/130666521/233557735-ccd2f40b-ee06-4366-85be-4bc040302658.png)
+![image](https://user-images.githubusercontent.com/130666521/233557771-df1ec9a2-32c1-42ff-b54e-7b32d81cb114.png)
+![image](https://user-images.githubusercontent.com/130666521/233557810-311523bc-9251-49b2-ad4b-ab55088d9876.png)
+![image](https://user-images.githubusercontent.com/130666521/233557838-fda7bd33-38f9-4336-b571-523faf44a7bb.png)
+![image](https://user-images.githubusercontent.com/130666521/233557924-558aec1d-634a-451b-8d9c-0582d6aa30b0.png)
+![image](https://user-images.githubusercontent.com/130666521/233557961-00abcea5-bb54-4b03-a90b-c7a953d3d051.png)
+![image](https://user-images.githubusercontent.com/130666521/233558033-240b4f7e-db13-47e5-be18-04a13c320acd.png)
+![image](https://user-images.githubusercontent.com/130666521/233558175-794fa12f-3905-4cdc-8047-807f27cf0b0b.png)
